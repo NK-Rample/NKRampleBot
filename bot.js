@@ -29,7 +29,7 @@ client.on('message', msg => {  //@╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶�
 
 client.on('message', msg => {  //@╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱#4254 
     if (msg.content === 'رابط البوت') {  //@╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱#4254 
-      msg.reply('**https://discordapp.com/oauth2/authorize?client_id=631422214691880980&permissions=8&scope=bot**');  //@╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱#4254 
+      msg.reply('** رابط اضافه البوتhttps://discordapp.com/oauth2/authorize?client_id=631422214691880980&permissions=8&scope=bot **');  //@╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱#4254 
     }
   });
 
